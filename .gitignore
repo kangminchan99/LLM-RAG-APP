@@ -24,3 +24,13 @@ Thumbs.db
 
 # Python version
 .python-version
+
+# Vector DB
+chroma_db/
+faiss_index/
+
+# Logs
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
