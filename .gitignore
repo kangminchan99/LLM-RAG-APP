@@ -34,3 +34,5 @@ faiss_index/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
+chroma/
+tax_docs/
