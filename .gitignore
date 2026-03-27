@@ -36,3 +36,4 @@ faiss_index/
 .ipynb_checkpoints/
 chroma/
 tax_docs/
+wikipedia_db/
